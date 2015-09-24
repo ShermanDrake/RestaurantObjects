@@ -1,0 +1,24 @@
+/*.mapcontainer{
+	width:100%;
+	position: relative;
+}	
+.image{
+	width: 100vw;
+
+
+}
+.pointer{
+	max-width: 25px;
+	z-index: 2;
+	position:absolute;	
+}
+
+.textarea{
+	width: 200px;
+	height: 200px;
+}
+
+.textBox {
+	z-index: 2;
+	position: absolute;
+}*/
